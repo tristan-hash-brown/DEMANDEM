@@ -69,7 +69,7 @@ h1 {
   margin: 10px 0 14px;
   font-weight: 900;
   letter-spacing: 0.01em;
-  transform: translateX(-2px);
+  transform: none;
 }
 
 h2 {
